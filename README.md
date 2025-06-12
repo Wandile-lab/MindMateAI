@@ -41,10 +41,15 @@ bash
 Copy
 Edit
 .
+
 ├── app.py               # Entry point for the chatbot UI
+
 ├── core.py              # Main logic for emotion prediction and chatbot
+
 ├── model/               # Optional: Local model files
+
 ├── requirements.txt     # Python dependencies
+
 ├── README.md            # This file
 
 # Requirements
